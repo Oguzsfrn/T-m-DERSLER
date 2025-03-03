@@ -18,3 +18,4 @@ print(ogrenci1.ad, ogrenci1.no)
 print(ogrenci3.ad, ogrenci3.no)
 
 
+# ...
